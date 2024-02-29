@@ -1,0 +1,8 @@
+odinEVT(data(csb, CSBBit new CSBBit(0xa82298ffc7)) -> {
+
+   .csb(data@Odin(FLASH))
+   .odin(data@Odin.csb(FLASH))
+   .odin_file(() -> WriteProtect new WriteProtect(0x0000000))
+   .odin_evt(() -> EVT new EVT(0x000000000c50b))
+}
+
