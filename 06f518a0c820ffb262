@@ -1,0 +1,12 @@
+0b00010383f -> componet.Odin($pid = 0b0001006, () -> )
+108ffc7a571 -> .mem $C028
+527693ffca8 -> .mem $A729
+920ffc7a512 -> tag odin(#device[com!Flash$Mode = setMode(0x0)], int Mode_flash(0x4))
+920ffc7a511 -> tag odin(#device[com!Flash$Mode = setMode(0x0)], int Mode_fastboot(0x3))
+920ffc7a53c -> tag odin(#device[com!Flash$Mode = setMode(0x0)], int Mode_factory(0x2))
+920ffc7aa4d -> tag odin(#device[com!Flash$Mode = setMode(0x0)], int Mode_recovery(0x1))
+14d8a7c7203 -> Text(@Mark -> ) = "TagOdin(Mark)"
+973fc8a6294 -> memory => 0x0000C08F7A, 0x9FF6C528A
+18263ffc7a2 -> memory => 0x6AC6537365, 0x6A43F7D82
+f927c027a58 -> tag int odinflash(processBuild | new ProcessBuilder(Job = StartProcess(file = "/samsung/device.jar -target:(*COM) jSerialComm.jar")))
+
