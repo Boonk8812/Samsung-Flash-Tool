@@ -37,7 +37,7 @@ When dealing with custom recoveries, rooting, or installing custom ROMs on your 
 
 1. Backup all critical data on your device using a reliable method.
 2. Charge your device to at least 50% battery life.
-3. Put your device into Download Mode: Power off the device, then press and hold Volume Down + Home Button + Power key simultaneously until a warning triangle appears. Press the Volume Up button to enter Download Mode.
+3. Put your device into Download Mode (for older device with a home button): Power off the device, then press and hold Volume Down + Home Button + Power key simultaneously until a warning triangle appears. Do this while the device is plugged into a computer. Then press the Volume Up button to enter Download Mode. For newer devices without a home button: Power off the device, then hold down the volume down and volume up button while it is completely off, then plug in the USB-C charging cable into the USB-C port on the bottom hole of the device, then while holding the volume buttons, hold down the power button. Then press volume up 1 time. This has to be done while connected to a computer, otherwize the device will boot up normally into Android.
 
 ## Beginning the Flashing Process
 
